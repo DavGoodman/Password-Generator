@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Password Gen": {
+      "commandName": "Project",
+      "commandLineArgs": "6 lsdLLl",
+      "remoteDebugEnabled": true
+    }
+  }
+}
